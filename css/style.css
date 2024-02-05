@@ -36,3 +36,20 @@ h1 {
 .color-author {
     color: #28ACE6;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #1FA9E5;
+}
+
+.cyano-row {
+    background-color: #B2E4F2;
+}
+
+.highlighter {
+    background-color: yellow;
+}
