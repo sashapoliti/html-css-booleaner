@@ -1,6 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     max-width: 65%;
     margin: auto;
 }
@@ -19,9 +19,10 @@ header {
 }
 
 h1 {
-    font-size: 390%;
+    font-size: 350%;
     font-weight: 800;
     padding-bottom: 0%;
+    margin: 0;
 }
 
 .author {
@@ -35,6 +36,10 @@ h1 {
 
 .color-author {
     color: #28ACE6;
+}
+
+.references {
+    font-size: 90%;
 }
 
 table {
@@ -52,4 +57,30 @@ thead {
 
 .highlighter {
     background-color: yellow;
+}
+
+.first-interest {
+    color: white;
+    font-size: 130%;
+    font-weight: bold;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.second-interest {
+    color: white;
+    font-size: 130%;
+    font-weight: bold;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 1%;
+    padding-left: 1%;
 }
