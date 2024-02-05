@@ -23,3 +23,16 @@ h1 {
     font-weight: 800;
     padding-bottom: 0%;
 }
+
+.author {
+    color: gray;
+    padding-bottom: 3%;
+}
+
+.top-author {
+    font-size: 150%;
+}
+
+.color-author {
+    color: #28ACE6;
+}
