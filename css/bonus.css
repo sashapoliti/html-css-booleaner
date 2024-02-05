@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    margin: auto;
+}
+
+header {
+    background-color: #4EA0FF;
+    background-image: url("../img/pattern.png");
+    background-size: 30%;
+    padding-top: 3%;
+    padding-bottom: 0.5%;
+}
+
+.logo {
+    height: auto;
+    max-width: 15%;
+    padding-left: 20%;
+}
+
+h1 {
+    font-size: 350%;
+    font-weight: 800;
+    padding-bottom: 0%;
+    margin: 0;
+}
+
+main {
+    max-width: 60%;
+    margin: auto;
+}
+
+.author {
+    color: gray;
+    padding-bottom: 3%;
+}
+
+.top-author {
+    font-size: 150%;
+}
+
+.color-author {
+    color: #28ACE6;
+}
+
+.references {
+    font-size: 90%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: #1FA9E5;
+}
+
+.cyano-row {
+    background-color: #B2E4F2;
+}
+
+.highlighter {
+    background-color: yellow;
+}
+
+footer {
+    max-width: 60%;
+    margin: auto;
+}
+
+.first-interest {
+    color: white;
+    font-size: 130%;
+    font-weight: bold;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 1%;
+    padding-left: 1%;
+}
+
+.second-interest {
+    color: white;
+    font-size: 130%;
+    font-weight: bold;
+    width: 312px;
+    height: 208px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-top: 1%;
+    padding-left: 1%;
+}
